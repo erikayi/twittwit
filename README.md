@@ -19,5 +19,3 @@
 
 * Tweepy Github: https://github.com/tweepy/tweepy
 
-* Scraping Tweets From Twitter Tutorial: https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
-
