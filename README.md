@@ -28,7 +28,19 @@
     * Top 5 Least Popular Tweets:
     - ![Bottom_5_BTS_Butter_tweets](Images/bot_5_bts_butter.png)
 
-# JYPE Scraping
+# JYPE Scraping 
+
+* Engage tweets that talks about JYP feat. Rain's new released album called, "Switch With Me," in Korean, 나로 바꾸자.
+
+    * Top 5 Most Popular Tweets | For search keyword results in Korean:
+    - ![jyp_switch_with_me_kor_search](Images/top_5_jyp_switch_with_me_kor.png)
+
+    * Top 5 Least Popular Tweets | For search keyword results in Korean:
+    - ![jyp_switch_with_me_kor_search](Images/bot_5_jyp_switch_with_me_kor.png)
+
+    * There are very few tweets resulted in English. 
+    - ![jyp_switch_with_me_english_search](Images/top_bot_jyp_switch_with_me_eng.png)
+
 
 # Rain Scraping 
 
