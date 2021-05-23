@@ -26,7 +26,7 @@
 
 * In summary, the popular tweets are mostly teasers, the music video-making process, and the new album's advertisements. 
     - There are exceptions in those top tweets. 
-    - Some top tweets have a text with the artist's name and the song's title; however, they have included their selfie or texts that are not related to the artist's name or the song's title. 
+    - Some top tweets have a text with the artist's name and the song's title; however, they have included their photographs or texts that are not related to the artist's name or the song's title. 
     - The tweets themselves can talk about a completely different subject, not the idol groups, the artists, or the songs. 
     - Some popular or the least popular tweets talk about a random subject when the hashtag relates to weather or other things. For example, there is a tweet that talks about weather for the search term RAIN. 
 
