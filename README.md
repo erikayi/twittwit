@@ -57,7 +57,7 @@
 
 # Rain(비) Tweet Scraping 
 
-![Rain_Switch-to-me](Images/cover_img/switch_to_me_rain_jyp.jpg)
+![Rain_Switch-to-me](Images\cover_img\switch_to_me_rain_jyp.jpg)
 
 * Engage tweets that talk about Rain's newly released album called, "Switch To Me (Duet with JYP)," in Korean, 나로 바꾸자.
     
@@ -101,7 +101,7 @@
 
 # JYPE(박진영) Tweet Scraping 
 
-![JYPE](images/cover_img/jype.png)
+![JYPE](Images/cover_img/jype.png)
 
 * Engage tweets that talk about Jin Young Park (JYP) in both English and Korean.
     
@@ -144,7 +144,7 @@
 
 # Sekai No Owari Tweet Scraping
 
-![sekai-no-owari](images/cover_img/sekai_no_owari_blue.jpg)
+![sekai-no-owari](Images/cover_img/sekai_no_owari_blue.jpg)
 
 * Engage tweets that talk about Sekai No Owari Japanese Band. 
 
@@ -166,7 +166,7 @@
 
 # Ciipher Tweet Scraping
 
-![Ciipher](images/cover_img/ciipher.jpg)
+![Ciipher](Images/cover_img/ciipher.jpg)
 
 * Engage tweets that talk about a new trending K-idol boy group called Ciipher. 
 
@@ -189,7 +189,7 @@
 
 # NiziU Tweet Scraping
 
-![NiziU](images/cover_img/Niziu.jpg)
+![NiziU](Images/cover_img/Niziu.jpg)
 
 * Engage tweets that talk about NiziU Japanese Idol Girl Group. 
 
@@ -211,7 +211,7 @@
 
 # Twice Tweet Scraping 
 
-![Twice](images/cover_img/twice.jpg)
+![Twice](Images/cover_img/twice.jpg)
 
 * Engage tweets that talk about TWICE the K-idol Girl Group. 
 
