@@ -57,7 +57,7 @@
 
 # Rain(비) Tweet Scraping 
 
-![Rain_Switch-to-me](Images\cover_img\switch_to_me_rain_jyp.jpg)
+![Rain_Switch-to-me](Images/cover_img/switch_to_me_rain_jyp.jpg)
 
 * Engage tweets that talk about Rain's newly released album called, "Switch To Me (Duet with JYP)," in Korean, 나로 바꾸자.
     
@@ -229,7 +229,7 @@
     ![Top_5_Twice](Images/top_5_twice.png)
 
     ## Top 5 Least Popular Tweets:
-    ![Bottom_5_Twice](Images/bot_5_twice.png)
+    ![Bottom_5_Twice](Images/bot_5_twice.PNG)
 
 # Resources Used: 
 
