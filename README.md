@@ -10,11 +10,11 @@
     
     * Summary Analysis:
 
-        ![Image of My Timeline](images/my_timeline.png)
+        ![Image of My Timeline](Images/my_timeline.png)
     
     * My Followings: 
 
-        ![Image of My Followings](images/my_following.png)
+        ![Image of My Followings](Images/my_following.png)
 
 # Summary Analysis From Seven Notebooks:
 
