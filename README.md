@@ -1,4 +1,5 @@
-# Tweet, Tweet, Every Day Starts With A New Feed
+# First, let's test out my Twitter API for my Twitter account.
+## Tweet, Tweet, Every Day Starts With A New Feed
 
 * Find out my Twitter Feed, the relationship between what I followed, and the genre I am following. 
 
@@ -16,7 +17,9 @@
 
         ![Image of My Followings](Images/my_following.png)
 
-# Summary Analysis From Seven Notebooks:
+# Second, this is my research for discovering Top 5 Tweets and Bottom 5 Tweets for K-pop artists and J-pop artists. 
+
+## Summary Analysis From Seven Musicians/Artists' Tweets:
 
 * Overall, we find the latest popular tweets and the least popular tweets. And, discover which tweets engage the most audiences on Twitter.
 
