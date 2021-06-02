@@ -233,7 +233,7 @@
 
 # Extras:
 
-* Even though I set up the search results in English, the Korean search results still show up. These also apply to Japanese artists. (For example, Ciipher, Twice, NiziU, & Sekai No Owari)
+* Even though I set up the search results in English, the Korean search results still show up. These also apply to Japanese artists. (For example, Ciipher, Twice, NiziU, & Sekai No Owari) These could be a result of the hashtag. Many of them have a combination of English, Korean, and/or Japanese hashtags.
 
 # Resources Used: 
 
