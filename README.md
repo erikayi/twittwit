@@ -231,6 +231,10 @@
     ## Top 5 Least Popular Tweets:
     ![Bottom_5_Twice](Images/bot_5_twice.PNG)
 
+# Extras:
+
+* Even though I set up the search results in English, the Korean search results still show up. These also apply to Japanese artists. (For example, Ciipher, Twice, NiziU, & Sekai No Owari)
+
 # Resources Used: 
 
 * Tweepy Documentation: https://docs.tweepy.org/en/latest/api.html#post-retrieve-and-engage-with-tweets
