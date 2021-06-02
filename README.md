@@ -1,5 +1,4 @@
-# First, let's test out my Twitter API for my Twitter account.
-## Tweet, Tweet, Every Day Starts With A New Feed
+# Tweet, Tweet, Every Day Starts With A New Feed
 
 * Find out my Twitter Feed, the relationship between what I followed, and the genre I am following. 
 
@@ -17,21 +16,19 @@
 
         ![Image of My Followings](Images/my_following.png)
 
-# Second, this is my research for discovering Top 5 Tweets and Bottom 5 Tweets for K-pop artists and J-pop artists. 
+## Summary analysis from my research for discovering Top 5 and Bottom 5 Tweets for K-pop and J-pop artists:
 
-## Summary Analysis From Seven Musicians/Artists' Tweets:
+* Find out about the latest popular tweets for those seven artists. 
 
-* Overall, we find the latest popular tweets and the least popular tweets. And, discover which tweets engage the most audiences on Twitter.
+* Researched which of the tweets are the most engaging on Twitter.
 
-* However, because of a hashtag, there are some unrelated tweets or tweets in another language included in the search results. 
+* Because of the hashtag, unrelated tweets are included in the search results. For example, selfies, photographs, another advertisement, and other subjects that we can name can also include in the search results.
 
-* Most of the least popular tweets (Tweets with 0 Popularity Count) are Retweets from another user. However, there are some exceptions in each one of the notebooks. Not all of them are Retweets.   
+* Discovered that the least popular tweets, which are the tweets with 0 popularity count, are mostly Retweets from another user on Twitter. 
 
-* In summary, the popular tweets are mostly teasers, the music video-making process, and the new album's advertisements. 
-    - There are exceptions in those top tweets. 
-    - Some top tweets have a text with the artist's name and the song's title; however, they have included their photographs or texts that are not related to the artist's name or the song's title. 
-    - The tweets themselves can talk about a completely different subject, not the idol groups, the artists, or the songs. 
-    - Some popular or the least popular tweets talk about a random subject when the hashtag relates to weather or other things. For example, there is a tweet that talks about weather for the search term RAIN. 
+* Although, there are some exceptions that not all of the least popular tweets are retweets.
+
+* Find out that the popular tweets are mostly teasers, the music video-making process, and the new album's advertisements. 
 
 # BTS Tweet Scraping  
 
