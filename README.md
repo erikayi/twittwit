@@ -16,7 +16,7 @@
 
         ![Image of My Followings](Images/my_following.png)
 
-## Summary analysis from my research for discovering Top 5 and Bottom 5 Tweets for K-pop and J-pop artists:
+## Summary analysis from my research for discovering the Top 5 and the Bottom 5 Ranking Tweets for K-pop and J-pop artists:
 
 * Find out about the latest popular tweets for those seven artists. 
 
