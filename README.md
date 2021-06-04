@@ -28,7 +28,9 @@
 
 * Although, there are some exceptions that not all of the least popular tweets are retweets.
 
-* Find out that the popular tweets are mostly teasers, the music video-making process, and the new album's advertisements. 
+* Find out that the popular tweets are the latest news related to COVID-19, teasers, the music video-making process, the new album's advertisements, the latest news related to the artist groups, etc.  
+
+* **Favorite Counts = Hearts = Popularity Counts**
 
 # BTS Tweet Scraping  
 
